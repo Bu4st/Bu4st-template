@@ -1,2 +1,2 @@
 # Bu4st-template
-<h1 style="align: center; display: flex; justify-content: center;">Bu4st Template 🔥 </h1>
+<h1 style="text-align: center;">Bu4st Template 🔥 </h1>
